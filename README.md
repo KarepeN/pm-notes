@@ -13,3 +13,4 @@
 ## Manifesto for Agile Software Development
 
 ## Scrum Framework
+- Roles: Product Owner, Development Team, and Scrum Master.
