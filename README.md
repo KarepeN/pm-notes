@@ -14,3 +14,6 @@
 
 ## Scrum Framework
 - Roles: Product Owner, Development Team, and Scrum Master.
+
+## Project Planning
+## Project Monitoring and Controlling
